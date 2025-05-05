@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\components",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\public",
     "\\src\\components\\sections",
     "\\src\\layouts",
     "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\components\\sections\\Experience.astro",
+  "SelectedNode": "\\.github\\workflows\\deploy.yml",
   "PreviewInSolutionExplorer": false
 }
