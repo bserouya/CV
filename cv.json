@@ -1,0 +1,534 @@
+{
+  "basics": {
+    "name": "Benjamin Serouya",
+    "label": "Lead Developer",
+    "image": "/me_avatar.jpg",
+    "email": "bserouya@hotmail.com",
+    "phone": "+33 0632218740",
+    "url": "https://bserouya.dev",
+    "summary": "10 years of experience in software development. Versatile and proficient in all technical aspects of project development, from concept to final product delivery. Team management experience. Creative and self-taught.",
+    "theme": "blue",
+    "location": {
+      "address": "9 rue Gambetta",
+      "postalCode": "77210",
+      "city": "Avon",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bserouya",
+        "url": "https://linkedin.com/in/bserouya"
+      },
+      {
+        "network": "GitHub",
+        "username": "Balrog",
+        "url": "https://github.com/bserouya"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cometh Studio",
+      "position": "Lead Developer",
+      "location_type": "Full remote",
+      "location": "Paris",
+      "url": "https://www.cosmikbattle.com/",
+      "startDate": "2024-02-04",
+      "endDate": "2025-02-24",
+      "summary": "Develop a 2D pixel art TCG linked to blockchain. Production launch on the Epic game Store, google play store and apple store.",
+      "highlights": [
+        "Transforming a game prototype into a professional game"
+      ],
+      "responsibilities": [
+        "Management of a team of developers, graphic designer production and integration management.",
+        "Setting up development flows with naming conventions and coding standards, refactoring, code reviews and managing pull requests on GIT.",
+        "Set up daily meetings to ensure alignment with project objectives.",
+        "Creation of build and release processes for new versions of the game."
+      ],
+      "achievements": [
+        "Creation of a standalone installer with a client-side update system.",
+        "UI integration and optimization",
+        "Improved data reading to optimize client-server exchanges",
+        "Mobile game optimization, profiling for improved CPU, GPU and memory management."
+      ],
+      "skills": [
+        "Unity3D",
+        "Csharp",
+        "GitHub",
+        "Git",
+        "Linear",
+        "MongoDB",
+        "Android Studio",
+        "Figma",
+        "IOS"
+      ]
+    },
+    {
+      "name": "StarChain Gazer",
+      "position": "Lead Developer",
+      "location_type": "Hybrid",
+      "location": "Paris",
+      "url": "https://www.starchaingazer.io/",
+      "startDate": "2022-11-01",
+      "endDate": "2024-02-04",
+      "summary": "Development of a 4x multiplayer 3D game with an isometric perspective view.",
+      "highlights": [
+        "Transforming a game prototype into a professional game"
+      ],
+      "responsibilities": [
+        "Management of a team of junior developers, implementation of best practices.",
+        "Setting up development flows with naming conventions and coding standards, refactoring, code reviews and managing pull requests on GIT.",
+        "Set up daily meetings to ensure alignment with project objectives."
+      ],
+      "achievements": [
+        "Development of a tool for creating complex skills with frame-based animation management.",
+        "Create a map generation tool with an automated baking system for light creation.",
+        "Code transformation to integrate Photon's netcode",
+        "Refactoring, code optimization and profiling to improve performance"
+      ],
+      "skills": [
+        "Unity3D",
+        "Csharp",
+        "Playfab",
+        "Microsoft Azure",
+        "Git",
+        "GitHub",
+        "Jira",
+        "Photon",
+        "Figma",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "name": "Medusims",
+      "position": "Lead Developer - Game Designer",
+      "location_type": "On Site",
+      "location": "Paris",
+      "url": "https://www.youtube.com/@MEDUSIMSSAS/videos",
+      "startDate": "2013-10-01",
+      "endDate": "2022-02-01",
+      "summary": "Designed and developed serious games.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "responsibilities": [
+        "Management of a team of developers, graphic artists and designers.",
+        "Set up daily and half-yearly meetings according to the agile system.",
+        "Creation of functional specifications with customers and creation of technical specifications for internal teams.",
+        "Implementation of projects and technical choices."
+      ],
+      "achievements": [
+        "Creation of several 3d games for different professions (army, firefighters, doctors, hospitals).",
+        "Set up a small motion capture studio (with Kinect V2) to help the animator use the best gestures initiated by healthcare professionals.",
+        "Optimization of 3D games for mobile and WebGL use.",
+        "Creation of a conversational engine and a physiological engine.",
+        "Management of animations and blendshapes to respond to gestures performed on virtual patients."
+      ],
+      "skills": [
+        "Unity3D",
+        "Csharp",
+        "TortoiseSVN",
+        "RedMine",
+        "Windows Server",
+        "WebGL",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "name": "Lexis Numérique",
+      "position": "Game Developer",
+      "location_type": "On Site",
+      "location": "Paris",
+      "url": "https://fr.wikipedia.org/wiki/Lexis_Num%C3%A9rique",
+      "startDate": "2013-04-01",
+      "endDate": "2013-09-01",
+      "summary": "Development of Corto Maltes - Secrets of Venice.",
+      "highlights": [
+        "Developing all the mini games"
+      ],
+      "achievements": [
+        "Development of corto maltes game scenes.",
+        "Development of the mini games system on the Corto Maltese compass.",
+        "Journal implementation"
+      ],
+      "skills": [
+        "Unity3D",
+        "CSharp",
+        "NodeJS"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Gobelins, l’école de l’image",
+      "url": "https://www.gobelins.fr/",
+      "area": "Video Game",
+      "studyType": "Master",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "score": "10",
+      "courses": [
+        "Master IDE"
+      ]
+    },
+    {
+      "institution": "AFPA",
+      "url": "https://www.afpa.fr/",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2007-01-01",
+      "endDate": "2008-01-01",
+      "score": "10",
+      "courses": [
+        "Software Development"
+      ]
+    },
+    {
+      "institution": "AFPA",
+      "url": "https://www.afpa.fr/",
+      "area": "IT Technician Certification",
+      "studyType": "Associate Degree",
+      "startDate": "2005-01-01",
+      "endDate": "2006-01-01",
+      "score": "10",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    },
+    {
+      "institution": "Gobelins, l’école de l’image",
+      "url": "https://www.gobelins.fr/",
+      "area": "Graphic Industries",
+      "studyType": "baccalaureate",
+      "startDate": "2004-01-01",
+      "endDate": "2005-01-01",
+      "score": "10",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Isart Digital",
+      "url": "https://www.isart.fr/",
+      "area": "Game Design",
+      "studyType": "baccalaureate",
+      "startDate": "2003-01-01",
+      "endDate": "2004-01-01",
+      "score": "10",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Master level 7",
+      "date": "2013-05-01",
+      "issuer": "Gobelins, l’école de l’image",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Unity",
+      "level": "Expert",
+      "keywords": [
+        "VideoGame",
+        "Engine"
+      ]
+    },
+    {
+      "name": "CSharp",
+      "level": "Expert",
+      "keywords": [
+        "VideoGame Development",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "Json",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Xml",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Playfab",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Photon",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Jira",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Linear",
+      "level": "Intermediate",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video games",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": " role-playing games",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "board games",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Traveling",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "hiking",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "swimming",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+        "Piano"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cosmik Battle",
+      "isActive": true,
+      "description": "A TCG in pixel art link to the web3.",
+      "highlights": [
+        "Blockchain friendly",
+        "Pixel Art",
+        "Secure payment integration"
+      ],
+      "url": "https://www.youtube.com/watch?v=w4-qY4v3_PQ&list=TLGGbanFvYWQeWgwNTA1MjAyNQ&t=3s&ab_channel=Cometh"
+    },
+    {
+      "name": "Time Breachers",
+      "isActive": true,
+      "description": "A 4X Multiplayer game.",
+      "highlights": [
+        "Built with Unity3D",
+        "Multiplayer with Photon Netcode and Playfab"
+      ],
+      "url": "https://www.youtube.com/watch?v=KWTrIBcidvQ&ab_channel=TimeBreachers"
+    },
+    {
+      "name": "TRAUMASIMS",
+      "isActive": true,
+      "description": "A game to learn how to manage a crisis situation such as an attack.",
+      "highlights": [
+        "Available on Mobile and WebGL"
+      ],
+      "url": "https://www.youtube.com/watch?v=LsLrodbh4RQ&ab_channel=MEDUSIMSSAS"
+    },
+    {
+      "name": "CARESIMS",
+      "isActive": true,
+      "description": "A game to help patients manage their pain.",
+      "highlights": [
+        "Available on Mobile and WebGL for LMS"
+      ],
+      "url": "https://www.youtube.com/watch?v=pw6TtblbXO4&ab_channel=MEDUSIMSSAS"
+    },
+    {
+      "name": "PERINATSIMS",
+      "isActive": true,
+      "description": "A game for dealing with problems after a difficult birth.",
+      "highlights": [
+        "Two different games, one to manage the patient after delivery and another to manage the newborn baby"
+      ],
+      "url": "https://www.youtube.com/watch?v=Nq5MhFiikB8&ab_channel=MEDUSIMSSAS"
+    },
+    {
+      "name": "Corto Maltese: Secrets of Venice",
+      "isActive": true,
+      "description": "An investigation game with corto maltese.",
+      "highlights": [
+        "Point & click",
+        "Illustrated drawings",
+        "Parallax effect"
+      ],
+      "url": "https://www.youtube.com/watch?v=AVzjZh_duU4&ab_channel=BulkyPix"
+    }
+  ]
+}
