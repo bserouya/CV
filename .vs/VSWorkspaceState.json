@@ -4,10 +4,12 @@
     "\\.github",
     "\\.github\\workflows",
     "\\public",
+    "\\src",
+    "\\src\\components",
     "\\src\\components\\sections",
     "\\src\\layouts",
     "\\src\\pages"
   ],
-  "SelectedNode": "\\.github\\workflows\\deploy.yml",
+  "SelectedNode": "\\src\\components\\sections\\Projects.astro",
   "PreviewInSolutionExplorer": false
 }
